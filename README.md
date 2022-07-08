@@ -18,6 +18,21 @@ Important Instructions:
 
 API endpoint to fetch quiz data: https://5d76bf96515d1a0014085cf9.mockapi.io/quiz
 
+## Typography
+
+| Type | Font |
+| --- | --- |
+| Primary | Source Sans Pro |
+| Headings | Caveat Brush Cursive |
+
+## Color Palette
+
+| Type | Color |
+| --- | --- |
+| Primary | ![#54c3ef]() `#54c3ef` |
+| Text | ![#fad744]() `#fad744` |
+| Background | ![#2b3252]() `#2b3252` |
+
 <hr>
 
 View in Codepen: https://codepen.io/jothomas/full/rNdezLm
