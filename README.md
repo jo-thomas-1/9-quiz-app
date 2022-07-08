@@ -29,9 +29,9 @@ API endpoint to fetch quiz data: https://5d76bf96515d1a0014085cf9.mockapi.io/qui
 
 | Type | Color |
 | --- | --- |
-| Primary | ![#54c3ef]() `#54c3ef` |
-| Text | ![#fad744]() `#fad744` |
-| Background | ![#2b3252]() `#2b3252` |
+| Primary | ![#54C3EF](https://user-images.githubusercontent.com/7560063/177987639-a7044fba-a802-4bc2-b915-ec112c4e4927.png) `#54c3ef` |
+| Text | ![#FAD744](https://user-images.githubusercontent.com/7560063/177987662-ab69c549-bd71-44fd-9f92-1c36051ba10c.png) `#fad744` |
+| Background | ![#2B3252](https://user-images.githubusercontent.com/7560063/177987691-bbc3d666-8d9c-4860-9e31-364270ea6a35.png) `#2b3252` |
 
 <hr>
 
