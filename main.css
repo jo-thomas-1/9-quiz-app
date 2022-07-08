@@ -54,6 +54,7 @@ h1 {
 #score_value {
 	font-size: 200%;
 	font-weight: bold;
+	white-space: nowrap;
 }
 
 .question_box {
