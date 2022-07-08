@@ -1,5 +1,7 @@
 console.clear();
 
+var answer_key = {};
+
 // function to generate HTML elements
 function generate_quiz(data)
 {
@@ -43,6 +45,9 @@ function generate_quiz(data)
 
 			question_div.appendChild(temp_option_element);
 		}
+
+		// record answer to answer key
+		answer_key[question_div.id] = data[i]["answer"];
 
 		questions_container.appendChild(question_div);
 	}
