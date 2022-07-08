@@ -6,6 +6,8 @@ Reference Image Link: https://drive.google.com/file/d/1WCdPt_ijJZQM52ZhmnpoIh8P8
 
 Reference Image: 
 
+![reference_image](https://user-images.githubusercontent.com/7560063/177986192-f0b2b903-a49c-482f-8bd4-927ce64d781c.png)
+
 Important Instructions:
 
 - The quiz needs to be loaded dynamically. Create the required array of objects for the quiz questions.
