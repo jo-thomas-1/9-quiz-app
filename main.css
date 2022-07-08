@@ -67,7 +67,7 @@ h1 {
 	font-weight: bold;
 }
 
-.form-check-input {
+.form-check-input, .form-check-label {
 	margin-right: 4px;
 }
 
