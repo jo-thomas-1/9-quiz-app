@@ -4,9 +4,13 @@ function calculate_score()
 {
 	event.preventDefault(); // to cancel form submit
 
-	console.log("Form Submitted");
-}
+	let score = 0;
+	let quiz_form = document.getElementById("quiz");
 
-// event listener for submit button
-let submit_button = document.getElementById("submit_button");
-submit_button.addEventListener("click", calculate_score);
+	for(question in answer_key)
+	{
+		if(answer_key[question] == quiz_form.elements[question].value) score++;
+	}
+
+	document.getElementById("score").innerHTML = score;
+}
